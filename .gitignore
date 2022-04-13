@@ -1,0 +1,10 @@
+.env
+.htaccess
+wp-config.php
+wp-config-*.php
+/vendor
+/wp/
+/content/debug.log
+/content/cache/
+/content/uploads/
+/content/plugins/
